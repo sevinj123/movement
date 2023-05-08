@@ -1,0 +1,12 @@
+.bg-color{
+ border: double;
+ width: 60%;
+ height: 60vh;
+ margin-left: 15%;
+ margin-top: 5%;
+}
+.square{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+}
